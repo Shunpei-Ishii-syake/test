@@ -9,6 +9,8 @@
 #include "simulation_2d.hpp"
 #include "oyl_video.hpp"
 
+// gg
+
 constexpr int size_x = 32;
 constexpr int size_y = 32;
 constexpr double Vd = 0.0044;
